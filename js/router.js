@@ -16,3 +16,5 @@ function loadJS(FILE_URL, async = true) {
     console.log("Error on loading file", ev);
   });
 }
+
+console.log("this is a new test");
