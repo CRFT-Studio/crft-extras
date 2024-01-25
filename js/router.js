@@ -17,4 +17,4 @@ function loadJS(FILE_URL, async = true) {
   });
 }
 
-console.log("this is a new test");
+console.log("this is an even newer test");
